@@ -1,2 +1,2 @@
 # COP CPP Particle Simulation
- The Particle Simulation Section of the Cave of Programming C++ Tutorial
+ The Particle Simulation Section of the Cave of Programming C++ Tutorial. Built in Eclipse IDE.
